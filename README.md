@@ -54,6 +54,8 @@ Notes
 
 - The model can be improved with more data, augmentation, and tuning.
 - If using Colab, ensure that Google Drive is mounted correctly and dataset path is accessible.
+OUTPUT :
+![screenshot](images)
 
 
 
